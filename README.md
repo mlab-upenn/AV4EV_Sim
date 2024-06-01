@@ -41,13 +41,13 @@ Instructions to run AV4EV Sim:
 
 10. Hit X (keyboard) to pose the vehicle (third-person mode) and enable UI, you’d be able to drive the go-kart with the keyboard’s W, S, A, and D keys, X will stop the vehicle immediately
 
-    The vehicle currently has the following topics set up for sensor and control ROS2 interface:
-    Camera: /kart/camera
-    Lidar: /kart/lidar
-    GNSS: /kart/gnss
-    IMU: /kart/imu
-    Odom: /kart/odom
-    Control: /kart/ackermann_cmd
+    The vehicle currently has the following topics set up for sensor and control ROS2 interface:  
+    Camera: /kart/camera  
+    Lidar: /kart/lidar  
+    GNSS: /kart/gnss  
+    IMU: /kart/imu  
+    Odom: /kart/odom  
+    Control: /kart/ackermann_cmd  
 
     After the ackermann_msg is being published by your planner, Hit M to toggle between the keyboard manual control and autonomous mode (ROS2 ackermann_cmd)
 
