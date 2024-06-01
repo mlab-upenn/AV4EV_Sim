@@ -37,7 +37,7 @@ Instructions to run AV4EV Sim:
 
 8. You may hit `X` (top right corner) to close the `Editor Mode` window after placing the go-kart to show the full UI. `Editor Mode` is used to edit component properties
 
-9. Hit the green triangle Run button to start the simulation
+9. Hit the green triangle `Run` button to start the simulation
 
 10. Hit `X` (keyboard) to pose the vehicle (third-person mode) and enable UI, you’d be able to drive the go-kart with the keyboard’s `W`, `S`, `A`, and `D` keys, `X` will stop the vehicle immediately
 
