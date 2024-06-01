@@ -35,7 +35,7 @@ Instructions to run AV4EV Sim:
 
    Select the drop-down menu to the right (cube with green plus sign). Under `SODA Vehicles`, select and drag `Kart Full` into the scene where you’d like to place the vehicle
 
-8. You may hit `X` (top right corner) to close the Editor Mode window after placing the go-kart to show the full UI. Editor Mode is used to edit component properties
+8. You may hit `X` (top right corner) to close the `Editor Mode` window after placing the go-kart to show the full UI. `Editor Mode` is used to edit component properties
 
 9. Hit the green triangle Run button to start the simulation
 
