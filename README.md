@@ -21,13 +21,13 @@ Instructions to run AV4EV Sim:
 
    Save and reboot. Autoware should run normally without this line. However, this line would need to be enabled before running AWSIM.
 
-3. Extract the AV4EV_Sim folder from the compressed zip file
+3. Extract the `AV4EV_Sim` folder from the compressed zip file
 
 4. cd to `AV4EV_Sim/Linux/AV4EV/Binaries/Linux`
 
 5. Run `./AV4EV` to launch the simulator
 
-6. Hit `F11` to switch between window and full-screen modes
+6. Hit `F11` to switch between `window` and `full-screen` modes
 
 7. To spawn our go-kart in the environment
 
@@ -49,9 +49,9 @@ Instructions to run AV4EV Sim:
     Odom: /kart/odom  
     Control: /kart/ackermann_cmd  
 
-    After the ackermann_msg is being published by your planner, Hit M to toggle between the keyboard manual control and autonomous mode (ROS2 ackermann_cmd)
+    After the ackermann_msg is being published by your planner, Hit `M` to toggle between the keyboard manual control and autonomous mode (ROS2 ackermann_cmd)
 
-    AD Allowed on the right will be enabled when the go-kart is controlled via ROS2
+    `AD Allowed` on the right will be enabled when the go-kart is controlled via ROS2
 
     You may use `rviz2` and `rqt` to test sensor output through ROS2 interface
 
