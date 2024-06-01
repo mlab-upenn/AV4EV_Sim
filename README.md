@@ -13,7 +13,7 @@ Relocated a cone that was inside the track area
 
 Instructions to run AV4EV Sim:
 
-1. Download (AV4EV_Sim.zip)[https://drive.google.com/file/d/1goxswioa2MntthHZ-5inmKRmKjOJss0m/view?usp=drive_link]
+1. Download AV4EV_Sim.zip at [https://drive.google.com/file/d/1goxswioa2MntthHZ-5inmKRmKjOJss0m/view?usp=drive_link]
 
 2. If the machine has previously installed Autoware, edit the .bashrc file (under home, and ctrl+h to un-hide the hidden files) and comment out the following line toward the bottom:
 
