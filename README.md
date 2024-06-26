@@ -1,4 +1,4 @@
-# AV4EV_Sim README
+# AV4EV_Sim
 
 ## Overview
 
