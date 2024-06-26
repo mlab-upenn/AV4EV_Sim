@@ -21,7 +21,7 @@ In our go-kart drive-by-wire design, all subsystems except the PD and the RSD us
 
 ### Download and Setup
 
-1. Download `AV4EV_Sim.zip` from [this link](https://github.com/AlexanderRex/SodaAV4EV/releases/tag/v1.1.0).
+1. Download `AV4EV_Sim.zip` from [this link](https://github.com/mlab-upenn/AV4EV_Sim/releases/tag/v1.1.0).
 
 2. If the machine has previously installed Autoware, edit the `.bashrc` file (under home, and `ctrl+h` to un-hide the hidden files) and comment out the following line toward the bottom:
     ```sh
