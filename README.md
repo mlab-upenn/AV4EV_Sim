@@ -4,6 +4,10 @@
 
 This is the build version of AV4EV Simulator for Linux and should run without installing other dependencies. This simulator is based on SODA.Sim and integrated by Po-Jen Wang (pojen.wang@autoware.org) and Alexander Kalmykov (alex.kalm.dev@gmail.com).
 
+<p align="center" width="100%">
+    <img width="800" src="Images/AV4EV_Sim_Purdue.png">
+</p>
+
 ## System Overview
 
 The go-kart mechatronics system is designed as a modular system, consisting of several subsystems responsible for different tasks. There are seven major subsystems:
@@ -84,6 +88,10 @@ You can change the map to Pennovation and have a sneak peek of the Pennovation e
 1. Select the first icon (three horizontal lines) on the top left corner -> Open Level -> select Pennovation map.
 2. The default camera position is off so you need to fly around with the keyboard and go above ground level before placing the go-kart on the ground.
 3. Note: This is still under development and there are some collision errors so the go-kart may not run correctly on all of the surfaces.
+
+<p align="center" width="100%">
+    <img width="800" src="Images/AV4EV_Sim_Pennovation.png">
+</p>
 
 ## Source Code
 
